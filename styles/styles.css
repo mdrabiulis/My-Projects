@@ -1,4 +1,4 @@
-{
+*{
     margin: 0px;
     padding: 0px;
 } 
@@ -9,5 +9,40 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    
 }
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0e75d4;
+}
+li{
+    float: right;
+}
+
+a{
+    display: block;
+    color: #ffffff;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+a:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
