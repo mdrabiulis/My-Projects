@@ -51,8 +51,23 @@ h1{
 hr{ margin: 1px; padding: 0px; color: #dfdbdb ;}
 
 
+.name{
+    
+    color: rgb(146, 38, 38);
+    width: 200px;
+    font-size: 40px;
+   
+    
+    
+}
+.imrr{
+    width: 200px;
+    height: 200px;
+    margin-left:75%;
+    background-color: #ffffff;
+    image-rendering: calc();
 
-
+}
 
 
 
