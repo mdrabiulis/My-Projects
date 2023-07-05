@@ -4,6 +4,7 @@
 } 
 
 body{
+    
     background-image: url(../images/images.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -16,17 +17,20 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #0e75d4;
+    background-color: #0e75d4; 
 }
 li{
     float: right;
+    
 }
 
 a{
     display: block;
     color: #ffffff;
-    padding: 14px 16px;
+    padding: 30px 60px;
     text-decoration: none;
+    font-size: 40px;
+    
 }
 
 
@@ -34,11 +38,17 @@ a:hover{
     background-color: rgb(255, 255, 255);
     color: black;
     border-radius: 7px;
+    transition-delay: .2s ;
+    
 }
 
 
+h1{
+    font-size: 60px;
+    font-style: ;
+}
 
-
+hr{ margin: 1px; padding: 0px; color: #dfdbdb ;}
 
 
 
